@@ -16,7 +16,7 @@ let test = 100;
 if(test > 120){
 
 
-   alert("yo mama");
+   alert("Welcome User");
 }
 
 
