@@ -1,0 +1,113 @@
+h3 {
+
+
+    color: rgb(28, 102, 186);
+    font-family: Impact, sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+ }
+ 
+ 
+ .header {
+ 
+ 
+ background-color: rgb(212, 206, 206);
+ padding: 10px;
+ border-radius: 10px;
+ 
+ 
+ 
+ 
+ }
+ 
+ 
+ .header h2 {
+ 
+ 
+    background-color: rgb(212, 206, 206);
+    padding: 10px;
+    border-radius: 10px;
+   
+   
+ }
+ 
+ 
+ body{
+ margin: 0;
+ padding: 0;
+ background: url(/Users/deandwiggins/Downloads/pexels-johannes-plenio-1423600.jpeg) no-repeat;
+ background-size: cover;
+ }
+ .box{
+ width: 450px;
+ background: rgba(0,0,0,0.4);
+ padding: 40px;
+ text-align: center;
+ margin: auto;
+ margin-top: 5%;
+ color: white;
+ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ 
+ 
+ 
+ 
+ }
+ .box-img{
+ border-radius: 50%;
+ width: 200px;
+ height: 200px;
+ 
+ 
+ }
+ .box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    text-shadow: 2px 2px 2px black;
+ 
+ 
+ }
+ .box h5 {
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    width: 450px; /* Adjust based on your needs */
+    height: 50px; /* Adjust based on your needs */
+    border: 2px solid black; /* Adjust color and thickness as needed */
+   
+    display: flex;
+    justify-content: center; /* Centers text horizontally */
+    align-items: center; /* Centers text vertically */
+    text-align: center; /* Ensures text is centered if it wraps */
+    margin: auto; /* Center the circle horizontally if it's in a flexible container */
+    overflow: hidden; /* Ensures the content does not spill out */
+  
+ }
+ 
+ 
+ 
+ 
+ .box p{
+     text-align: justify;
+ 
+ 
+ }
+ ul{
+    margin: 0;
+    padding: 0;
+ }
+ .box li{
+ display: inline-block;
+ margin: 6px;
+ list-style: none;
+ 
+ 
+ }
+ .box li a{
+ 
+ 
+    color: white;
+    text-decoration: none;
+    font-size:  50px;
+   
+ }
+ 
